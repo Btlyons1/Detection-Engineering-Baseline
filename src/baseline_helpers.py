@@ -6,7 +6,7 @@ Reusable statistical and analysis functions for detection engineering baselines.
 Designed to be imported into baseline notebooks to ensure consistency and
 reduce code duplication across detection development.
 
-Author: Security Engineering Team
+Author: Brandon
 Version: 1.1.0
 License: MIT
 
