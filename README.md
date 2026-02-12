@@ -2,7 +2,7 @@
 
 A practical framework for building detection baselines using statistical methods. This repository accompanies the blog post on detection baselining techniques for security engineering.
 
-> **Blog Post:** [Detection Engineering: Building Baselines That Actually Work](https://your-substack-url-here.substack.com/p/detection-baselines)
+> **Blog Post:** [Detection Engineering: Building Baselines That Actually Work](https://open.substack.com/pub/brandontlyons/p/the-detection-engineering-baseline?r=19yefa&utm_campaign=post&utm_medium=web)
 
 ## Overview
 
